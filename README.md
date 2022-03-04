@@ -1,7 +1,20 @@
+![xyz](https://pbs.twimg.com/profile_banners/1111007023041310725/1640243636/1500x500)
+
 ### Hello, friend! ✨
 
-My name is Sylwia and I’m passionate about accessible, equitable, and collaborative tech. I'm a Rubyist writing React.
+My name is Sylwia and I’m **passionate about accessible, equitable, and collaborative tech**. 
+I especially care about that **new developers have a beautiful life in our industry**.
 
-[Reach out](https://twitter.com/SylwiaVargas) if you’d like to talk about Ruby, React,  accessibility, social justice, feminism, languages, or traveling. 
 
-Or, if you just want to say hi! 👋
+Other than that, I am a:
+
+✨ DevRel Advocate and front-end dev at [StackBlitz](stackblitz.com)
+
+✨ [React docs contributor](https://github.com/reactjs/reactjs.org/blob/aa70dcedc6db07987a814dba2b296cc4c5219860/beta/src/pages/community/acknowledgements.md#react-docs-react-docs), 
+
+✨ co-organizer of [React Robbins](https://www.reactrobins.com/), 
+
+✨ and an author of [a newsletter for kind folks in tech](https://buttondown.email/sylwia).
+
+
+You can follow me or reach out to me on [twitter](https://twitter.com/SylwiaVargas) ✨
