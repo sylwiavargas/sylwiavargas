@@ -18,3 +18,7 @@ Other than that, I am a:
 
 
 You can follow me or reach out to me on [twitter](https://twitter.com/SylwiaVargas) ✨
+
+
+---
+Cover image from [Ketnipz](https://www.instagram.com/accounts/login/?next=/ketnipz/), a webcomic that brings joy.
