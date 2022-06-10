@@ -25,4 +25,4 @@ You can follow me or reach out to me on [twitter](https://twitter.com/SylwiaVarg
 <br/>
 
 ---
-Cover image from [Ketnipz](https://www.instagram.com/accounts/login/?next=/ketnipz/), a webcomic that brings joy.
+Cover image is a still from "Everything, Everywhere, All at Once"
