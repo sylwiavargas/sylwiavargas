@@ -1,4 +1,4 @@
-![xyz](https://pbs.twimg.com/profile_banners/1111007023041310725/1640243636/1500x500)
+![a still from "Everything, Everywhere, All at Once": two rocks overlooking the Grand Canyon, each saying "ha ha ha"](https://pbs.twimg.com/profile_banners/1111007023041310725/1652804175/1500x500)
 
 ### Hello, friend! ✨
 <br/>
