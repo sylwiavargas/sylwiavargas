@@ -11,7 +11,9 @@
 
 Other than that, I am a:
 
-✨ DevRel Advocate and front-end dev at [StackBlitz](stackblitz.com)
+✨ CXO at [PartyKit](https://partykit.io) - let's chat about realtime and multiplayer tech!
+
+✨ a [StackBlitz](stackblitz.com) alumna (I was a DevRel lead there),
 
 ✨ contributor to [React docs](https://github.com/reactjs/reactjs.org/blob/aa70dcedc6db07987a814dba2b296cc4c5219860/beta/src/pages/community/acknowledgements.md#react-docs-react-docs), 
 
