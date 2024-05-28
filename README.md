@@ -1,4 +1,4 @@
-![a still from "Everything, Everywhere, All at Once": two rocks overlooking the Grand Canyon, each saying "ha ha ha"](https://pbs.twimg.com/profile_banners/1111007023041310725/1652804175/1500x500)
+![text that says "sleep all day party never". The image has a retro, 80s-inspired style characterized by vibrant colors, bold typography, and a futuristic aesthetic.](https://pbs.twimg.com/profile_banners/1111007023041310725/1716145200/1500x500)
 
 ### Hello, friend! ✨
 <br/>
@@ -11,9 +11,9 @@
 
 Other than that, I am a:
 
-✨ CXO at [PartyKit](https://partykit.io) - let's chat about realtime and multiplayer tech!
+✨ DevRel lead at [Inngest](https://www.inngest.com/) - let's chat about making your workflows and background jobs easier!
 
-✨ a [StackBlitz](stackblitz.com) alumna (I was a DevRel lead there),
+✨ an alumna of [StackBlitz](stackblitz.com) (DevRel lead) and [PartyKit](https://partykit.io) (CXO)
 
 ✨ contributor to [React docs](https://github.com/reactjs/reactjs.org/blob/aa70dcedc6db07987a814dba2b296cc4c5219860/beta/src/pages/community/acknowledgements.md#react-docs-react-docs), 
 
@@ -25,6 +25,3 @@ Other than that, I am a:
 You can follow me or reach out to me on [twitter](https://twitter.com/SylwiaVargas) ✨
 
 <br/>
-
----
-Cover image is a still from "Everything, Everywhere, All at Once"
